@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="category-text pt-40">
-                            <h2>Best platform to learn everything</h2>
+                            <h2>Our Major Programs in Uganda</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 offset-lg-1 col-md-8 offset-md-2 col-sm-8 offset-sm-2 col-8 offset-2">
@@ -16,7 +16,7 @@
                                             <img src="{{asset('images/all-icon/ctg-1.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Language</span>
+                                            <span>Agriculture</span>
                                         </span>
                                     </span> <!-- single category -->
                                 </a>
@@ -28,7 +28,7 @@
                                             <img src="{{asset('images/all-icon/ctg-2.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Business</span>
+                                            <span>Education</span>
                                         </span>
                                     </span> <!-- single category -->
                                 </a>
@@ -40,7 +40,7 @@
                                             <img src="{{asset('images/all-icon/ctg-3.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Literature</span>
+                                            <span>Burials</span>
                                         </span>
                                     </span> <!-- single category -->
                                 </a>
@@ -52,7 +52,7 @@
                                             <img src="{{asset('images/all-icon/ctg-1.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Language</span>
+                                            <span>Health</span>
                                         </span>
                                     </span> <!-- single category -->
                                 </a>
@@ -64,7 +64,7 @@
                                             <img src="{{asset('images/all-icon/ctg-2.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Business</span>
+                                            <span>Shelter</span>
                                         </span>
                                     </span> <!-- single category -->
                                 </a>
@@ -76,7 +76,7 @@
                                             <img src="{{asset('images/all-icon/ctg-3.png')}}" alt="Icon">
                                         </span>
                                         <span class="cont">
-                                            <span>Literature</span>
+                                            <span>Others</span>
                                         </span>
                                     </span> <!-- single category -->
                                 </a>

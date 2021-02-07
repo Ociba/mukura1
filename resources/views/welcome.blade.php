@@ -21,7 +21,7 @@
     <!--====== HEADER PART START ======-->
     
     <header id="header-part">
-        @include('frontlayout.topheader')
+        {{--@include('frontlayout.topheader')--}}
         
         @include('frontlayout.menu')
     </header>
@@ -56,7 +56,7 @@
    
     <!--====== VIDEO FEATURE PART START ======-->
     
-    @include('frontlayout.video')
+    {{--@include('frontlayout.video')--}}
     
     <!--====== VIDEO FEATURE PART ENDS ======-->
    
@@ -86,7 +86,7 @@
    
     <!--====== BACK TO TP PART START ======-->
     
-    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+    <a href="#" class="back-to-top"><i class="fa fa-arrow-up"></i></a>
     
     <!--====== BACK TO TP PART ENDS ======-->
 	@include('frontlayout.javascript')

@@ -7,7 +7,7 @@
                            <img src="images/event/e2-1.jpg" alt="Event">
                        </div>
                        <div class="event-cont">
-                            <a href="events-single.html"><h4>World Education Day Conference</h4></a>
+                            <a href="/more-on-activities"><h4>World Education Day Conference</h4></a>
                            <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                             <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                             <p>Nam nec tellus a odio tincidunt auctor a ornare odionon mauris itae erat conuat</p>
@@ -20,7 +20,7 @@
                            <img src="images/event/e2-2.jpg" alt="Event">
                        </div>
                        <div class="event-cont">
-                            <a href="events-single.html"><h4>World Education Day Conference</h4></a>
+                            <a href="/more-on-activities"><h4>World Education Day Conference</h4></a>
                            <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                             <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                             <p>Nam nec tellus a odio tincidunt auctor a ornare odionon mauris itae erat conuat</p>
@@ -33,7 +33,7 @@
                            <img src="images/event/e2-3.jpg" alt="Event">
                        </div>
                        <div class="event-cont">
-                            <a href="events-single.html"><h4>World Education Day Conference</h4></a>
+                            <a href="/more-on-activities"><h4>World Education Day Conference</h4></a>
                            <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                             <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                             <p>Nam nec tellus a odio tincidunt auctor a ornare odionon mauris itae erat conuat</p>
@@ -46,7 +46,7 @@
                            <img src="images/event/e2-4.jpg" alt="Event">
                        </div>
                        <div class="event-cont">
-                            <a href="events-single.html"><h4>World Education Day Conference</h4></a>
+                            <a href="/more-on-activities"><h4>World Education Day Conference</h4></a>
                            <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                             <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                             <p>Nam nec tellus a odio tincidunt auctor a ornare odionon mauris itae erat conuat</p>
@@ -59,7 +59,7 @@
                            <img src="images/event/e2-1.jpg" alt="Event">
                        </div>
                        <div class="event-cont">
-                            <a href="events-single.html"><h4>World Education Day Conference</h4></a>
+                            <a href="/more-on-activities"><h4>World Education Day Conference</h4></a>
                            <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                             <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                             <p>Nam nec tellus a odio tincidunt auctor a ornare odionon mauris itae erat conuat</p>
@@ -72,7 +72,7 @@
                            <img src="images/event/e2-2.jpg" alt="Event">
                        </div>
                        <div class="event-cont">
-                            <a href="events-single.html"><h4>World Education Day Conference</h4></a>
+                            <a href="/more-on-activities"><h4>World Education Day Conference</h4></a>
                            <span><i class="fa fa-calendar"></i> 2 December 2018</span>
                             <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                             <p>Nam nec tellus a odio tincidunt auctor a ornare odionon mauris itae erat conuat</p>

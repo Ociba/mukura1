@@ -16,30 +16,30 @@
                                 <img src="{{asset('images/course/cu-1.jpg')}}" alt="Course">
                             </div>
                             <div class="price">
-                                <span>Free</span>
+                                <span>Project</span>
                             </div>
                         </div>
                         <div class="cont">
                             <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
                             </ul>
-                            <span>(20 Reviews)</span>
-                            <a href="courses-single.html"><h4>Learn basic javascript from start for beginner</h4></a>
+                            <span>(20 Members)</span>
+                            <a href="/more-on-project"><h4>Learn basic javascript from start for beginner</h4></a>
                             <div class="course-teacher">
                                 <div class="thum">
-                                    <a href="#"><img src="{{asset('images/course/teacher/t-1.jpg')}}" alt="teacher"></a>
+                                    <a href="#"><img src="{{asset('images/patnar-logo/p-3.png')}}" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Teso Parents</h6></a>
                                 </div>
                                 <div class="admin">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
-                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+                                        <li><a href="#"><i class="fa fa-calendar"></i><span>10/01/2021</span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -53,30 +53,30 @@
                                 <img src="{{asset('images/course/cu-2.jpg')}}" alt="Course">
                             </div>
                             <div class="price">
-                                <span>Free</span>
+                                <span>Project</span>
                             </div>
                         </div>
                         <div class="cont">
                             <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
                             </ul>
-                            <span>(20 Reviews)</span>
-                            <a href="courses-single.html"><h4>Learn basic javascript from start for beginner</h4></a>
+                            <span>(20 Members)</span>
+                            <a href="/more-on-project"><h4>Learn basic javascript from start for beginner</h4></a>
                             <div class="course-teacher">
                                 <div class="thum">
-                                    <a href="#"><img src="{{asset('images/course/teacher/t-2.jpg')}}" alt="teacher"></a>
+                                    <a href="#"><img src="{{asset('images/patnar-logo/p-3.png')}}" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Teso Parents</h6></a>
                                 </div>
                                 <div class="admin">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
-                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+                                        <li><a href="#"><i class="fa fa-calendar"></i><span>10/01/2021</span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -90,30 +90,30 @@
                                 <img src="{{asset('images/course/cu-3.jpg')}}" alt="Course">
                             </div>
                             <div class="price">
-                                <span>Free</span>
+                                <span>Project</span>
                             </div>
                         </div>
                         <div class="cont">
                             <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
                             </ul>
-                            <span>(20 Reviews)</span>
-                            <a href="courses-single.html"><h4>Learn basic javascript from start for beginner</h4></a>
+                            <span>(20 Members)</span>
+                            <a href="/more-on-project"><h4>Learn basic javascript from start for beginner</h4></a>
                             <div class="course-teacher">
                                 <div class="thum">
-                                    <a href="#"><img src="{{asset('images/course/teacher/t-3.jpg')}}" alt="teacher"></a>
+                                    <a href="#"><img src="{{asset('images/patnar-logo/p-3.png')}}" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Teso Parents</h6></a>
                                 </div>
                                 <div class="admin">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
-                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+                                        <li><a href="#"><i class="fa fa-calendar"></i><span>10/01/2021</span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -127,30 +127,30 @@
                                 <img src="{{asset('images/course/cu-4.jpg')}}" alt="Course">
                             </div>
                             <div class="price">
-                                <span>Free</span>
+                                <span>Project</span>
                             </div>
                         </div>
                         <div class="cont">
                             <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
                             </ul>
-                            <span>(20 Reviews)</span>
-                            <a href="courses-single.html"><h4>Learn basic javascript from start for beginner</h4></a>
+                            <span>(20 Members)</span>
+                            <a href="/more-on-project"><h4>Learn basic javascript from start for beginner</h4></a>
                             <div class="course-teacher">
                                 <div class="thum">
-                                    <a href="#"><img src="{{asset('images/course/teacher/t-4.jpg')}}" alt="teacher"></a>
+                                    <a href="#"><img src="{{asset('images/patnar-logo/p-3.png')}}" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Teso Parents</h6></a>
                                 </div>
                                 <div class="admin">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
-                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+                                        <li><a href="#"><i class="fa fa-calendar"></i><span>10/01/2021</span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -164,30 +164,30 @@
                                 <img src="{{asset('images/course/cu-5.jpg')}}" alt="Course">
                             </div>
                             <div class="price">
-                                <span>Free</span>
+                                <span>Project</span>
                             </div>
                         </div>
                         <div class="cont">
                             <ul>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li><i class="fa fa-user"></i></li>
                             </ul>
-                            <span>(20 Reviews)</span>
-                            <a href="courses-single.html"><h4>Learn basic javascript from start for beginner</h4></a>
+                            <span>(20 Members)</span>
+                            <a href="/more-on-project"><h4>Learn basic javascript from start for beginner</h4></a>
                             <div class="course-teacher">
                                 <div class="thum">
-                                    <a href="#"><img src="{{asset('images/course/teacher/t-5.jpg')}}" alt="teacher"></a>
+                                    <a href="#"><img src="{{asset('images/patnar-logo/p-3.png')}}" alt="teacher"></a>
                                 </div>
                                 <div class="name">
-                                    <a href="#"><h6>Mark anthem</h6></a>
+                                    <a href="#"><h6>Teso Parents</h6></a>
                                 </div>
                                 <div class="admin">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-user"></i><span>31</span></a></li>
-                                        <li><a href="#"><i class="fa fa-heart"></i><span>10</span></a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+                                        <li><a href="#"><i class="fa fa-calendar"></i><span>10/01/2021</span></a></li>
                                     </ul>
                                 </div>
                             </div>

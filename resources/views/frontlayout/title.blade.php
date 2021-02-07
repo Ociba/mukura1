@@ -1,1 +1,1 @@
-<title>Teso Parents - Website</title>
+<title>Teso Parents Primary School</title>

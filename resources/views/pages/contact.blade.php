@@ -1,39 +1,39 @@
 <!doctype html>
 <html lang="en">
 <head>
-   
+
     <!--====== Required meta tags ======-->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <!--====== Title ======-->
     @include('frontlayout.title')
     <!--Css-->
     @include('frontlayout.css')
-  
-  
+
+
 </head>
 
 <body>
-    
+
     <!--====== HEADER PART START ======-->
-    
+
     <header id="header-part">
-        @include('frontlayout.topheader')
-        
+        {{--@include('frontlayout.topheader')--}}
+
         @include('frontlayout.menu')
     </header>
-    
+
     <!--====== HEADER PART ENDS ======-->
-   
-    
-   
+
+
+
     <!--====== BREADCRUMB PART START ======-->
-    
+
     @include('frontlayout.breadcrumb')
-    
+
     <!--====== BREADCRUMB PART ENDS ======-->
     <section class="pt-105 pb-110">
         <div class="container">
@@ -48,9 +48,9 @@
 
         </div>
     </section>
-   
+
    <!--====== CONTACT PART START ======-->
-    
+
    <section id="contact-page" class="pt-90 pb-120 gray-bg">
         <div class="container">
             <div class="row">
@@ -58,10 +58,10 @@
                     <div class="contact-from">
                         <div class="section-title">
                             <h5>Contact Us</h5>
-                            <h2>Keep in touch</h2>
+                            <h2>Send Us Message</h2>
                         </div> <!-- section title -->
                         <div class="main-form pt-45">
-                            <form id="contact-form" action="https://thepixelcurve.com/html/edubin/contact.php" method="post" data-toggle="validator">
+                            <form id="contact-for" action="/contact" method="get" data-toggle="validator">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="single-form form-group">
@@ -79,7 +79,7 @@
                                         <div class="single-form form-group">
                                             <input name="subject" type="text" placeholder="Subject" data-error="Subject is required." required="required">
                                             <div class="help-block with-errors"></div>
-                                        </div> <!-- single form --> 
+                                        </div> <!-- single form -->
                                     </div>
                                     <div class="col-md-6">
                                         <div class="single-form form-group">
@@ -93,12 +93,12 @@
                                             <div class="help-block with-errors"></div>
                                         </div> <!-- single form -->
                                     </div>
-                                    <p class="form-message"></p>
+                                    {{--<p class="form-message"></p>--}}
                                     <div class="col-md-12">
                                         <div class="single-form">
                                             <button type="submit" class="main-btn">Send</button>
                                         </div> <!-- single form -->
-                                    </div> 
+                                    </div>
                                 </div> <!-- row -->
                             </form>
                         </div> <!-- main form -->
@@ -159,30 +159,30 @@
                             </li>
                         </ul>
                     </div> <!-- contact address -->
-                
+
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
 
     </section>
     <!--====== CONTACT PART ENDS ======-->
-   
+
     <!--====== PARTNER PART START ======-->
-    
+
     {{--@include('frontlayout.partner')--}}
-    
+
     <!--====== PARTNER PART ENDS ======-->
-   
+
     <!--====== FOOTER PART START ======-->
-    
+
     @include('frontlayout.footer')
-    
+
     <!--====== FOOTER PART ENDS ======-->
-   
+
     <!--====== BACK TO TP PART START ======-->
-    
-    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
-    
+
+    <a href="#" class="back-to-top"><i class="fa fa-arrow-up"></i></a>
+
     <!--====== BACK TO TP PART ENDS ======-->
 	@include('frontlayout.javascript')
 

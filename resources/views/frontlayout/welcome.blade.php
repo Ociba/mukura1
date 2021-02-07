@@ -8,7 +8,7 @@
                     </div> <!-- section title -->
                     <div class="about-cont">
                         <p>Lorem ipsum gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet . Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt  mauris. <br> <br> auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet . Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt  mauris</p>
-                        <a href="#" class="main-btn mt-55">Learn More</a>
+                        <a href="/about" class="main-btn mt-55">Read More</a>
                     </div>
                 </div> <!-- about cont -->
                 <div class="col-lg-6 offset-lg-1">
@@ -20,7 +20,7 @@
                             <li>
                                 <div class="single-event">
                                     <span><i class="fa fa-calendar"></i> 2 December 2018</span>
-                                    <a href="events-single.html"><h4>Campus clean workshop</h4></a>
+                                    <a href="/more-on-events"><h4>Campus clean workshop</h4></a>
                                     <span><i class="fa fa-clock-o"></i> 10:00 Am - 3:00 Pm</span>
                                     <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                                 </div>
@@ -28,7 +28,7 @@
                             <li>
                                 <div class="single-event">
                                     <span><i class="fa fa-calendar"></i> 2 December 2018</span>
-                                    <a href="events-single.html"><h4>Tech Summit</h4></a>
+                                    <a href="/more-on-events"><h4>Tech Summit</h4></a>
                                     <span><i class="fa fa-clock-o"></i> 10:00 Am - 3:00 Pm</span>
                                     <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                                 </div>
@@ -36,7 +36,7 @@
                             <li>
                                 <div class="single-event">
                                     <span><i class="fa fa-calendar"></i> 2 December 2018</span>
-                                    <a href="events-single.html"><h4>Environment conference</h4></a>
+                                    <a href="/more-on-events"><h4>Environment conference</h4></a>
                                     <span><i class="fa fa-clock-o"></i> 10:00 Am - 3:00 Pm</span>
                                     <span><i class="fa fa-map-marker"></i> Rc Auditorim</span>
                                 </div>

@@ -43,12 +43,12 @@
                                 <h6>Menu</h6>
                             </div>
                             <ul>
-                                <li><a href="index-2.html"><i class="fa fa-angle-right"></i>Home</a></li>
-                                <li><a href="about.html"><i class="fa fa-angle-right"></i>About us</a></li>
-                                <li><a href="courses.html"><i class="fa fa-angle-right"></i>Activities</a></li>
-                                <li><a href="blog.html"><i class="fa fa-angle-right"></i>Events</a></li>
-                                <li><a href="events.html"><i class="fa fa-angle-right"></i>Blog</a></li>
-                                <li><a href="events.html"><i class="fa fa-angle-right"></i>Contact</a></li>
+                                <li><a href="/"><i class="fa fa-angle-right"></i>Home</a></li>
+                                <li><a href="/about"><i class="fa fa-angle-right"></i>About us</a></li>
+                                <li><a href="/activities"><i class="fa fa-angle-right"></i>Activities</a></li>
+                                <li><a href="/events"><i class="fa fa-angle-right"></i>Events</a></li>
+                                <li><a href="/blog"><i class="fa fa-angle-right"></i>Blog</a></li>
+                                <li><a href="/contact"><i class="fa fa-angle-right"></i>Contact</a></li>
                             </ul>
                         </div> <!-- support -->
                     </div>

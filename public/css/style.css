@@ -7,7 +7,7 @@
   Version: 5.0
 */
 
-/* CSS Index 
+/* CSS Index
 -----------------------------------
 1. Theme default
 2. HEADER
@@ -40,7 +40,7 @@
 28. BLOG SINGEL PAGE
 29. SHOP PAGE
 30. SHOP SINGEL PAGE
-31. CONTACT PAGE 
+31. CONTACT PAGE
 32. ACCORDION
 33. PRIVACY POLICY
 34. LOGIN/REGISTER
@@ -48,7 +48,7 @@
 */
 
 /*===========================
-    1. Theme default css 
+    1. Theme default css
 ===========================*/
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto:300,400,500,700');
@@ -127,7 +127,7 @@ p {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    border: 1px solid #ffc600;
+    border: 1px solid #3333ff;
     padding: 0 35px;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -141,22 +141,22 @@ p {
     z-index: 5;
     -webkit-transition: 0.4s ease-in-out;
     transition: 0.4s ease-in-out;
-    background-color: #ffc600;
+    background-color: #3333ff;
 }
 .main-btn:hover {
-    color: #ffc600;
+    color: #3333ff;
     border-color: #07294d;
     background-color: #07294d;
 }
 .main-btn-2 {
-    color: #ffc600;
+    color: #3333ff;
     border-color: #07294d;
     background-color: #07294d;
 }
 .main-btn-2:hover {
     color: #07294d;
-    background-color: #ffc600;
-    border-color: #ffc600;
+    background-color: #3333ff;
+    border-color: #3333ff;
 }
 /*===== All Section Title Style =====*/
 
@@ -171,7 +171,7 @@ p {
     position: absolute;
     width: 35px;
     height: 2px;
-    background-color: #ffc600;
+    background-color: #3333ff;
     bottom: 0;
     left: 0;
 }
@@ -192,7 +192,7 @@ p {
     z-index: 9999;
 }
 .preloader .color-1 {
-    background-color: #ffc600 !important;
+    background-color: #3333ff !important;
 }
 .rubix-cube {
     border: 1px solid #FFF;
@@ -563,7 +563,7 @@ p {
     }
 }
 /*=====================================================
-    2. HEADER css 
+    2. HEADER css
 ======================================================*/
 
 /*===== Header top =====*/
@@ -609,7 +609,7 @@ p {
     font-size: 16px;
 }
 .header-right .social ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .login-register {}
 .login-register ul {}
@@ -621,7 +621,7 @@ p {
 .login-register ul li::before {
     position: absolute;
     content: '/';
-    color: #ffc600;
+    color: #3333ff;
     font-size: 16px;
     top: 0;
     left: -16px;
@@ -630,7 +630,7 @@ p {
     display: none;
 }
 .login-register ul li a {
-    color: #ffc600;
+    color: #3333ff;
     font-size: 16px;
     font-weight: 500;
     transition: all 0.3s linear;
@@ -678,15 +678,17 @@ p {
     padding: 0;
 }
 .navigation .navbar .navbar-nav {
+    background-color: #07294d;
     margin-right: 20px;
 }
 .navigation .navbar .navbar-nav li {
+    background-color: #07294d;
     position: relative;
 }
 .navigation .navbar .navbar-nav li a {
     font-size: 15px;
     font-weight: 500;
-    color: #07294d;
+    color: #ffffff;
     text-transform: uppercase;
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
@@ -694,7 +696,7 @@ p {
     display: block;
 }
 .navigation .navbar .navbar-nav>li>a.active, .navigation .navbar .navbar-nav>li:hover>a {
-    color: #ffc600;
+    color: #3333ff;
 }
 .navigation .navbar .navbar-nav li .sub-menu {
     position: absolute;
@@ -724,7 +726,7 @@ p {
 }
 .navigation .navbar .navbar-nav li .sub-menu li a.active, .navigation .navbar .navbar-nav li .sub-menu li a:hover {
     padding-left: 20px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .sub-nav-toggler {
     display: none;
@@ -741,7 +743,7 @@ p {
 .navbar .navbar-toggler .icon-bar {
     width: 30px;
     height: 2px;
-    background-color: #07294d;
+    background-color: #ffffff;
     display: block;
     margin: 5px 0;
     position: relative;
@@ -779,7 +781,7 @@ p {
 .right-icon ul li a span {
     font-size: 12px;
     color: #fff;
-    background-color: #ffc600;
+    background-color: #3333ff;
     border-radius: 50%;
     padding: 0px 4px;
     position: absolute;
@@ -806,7 +808,7 @@ p {
     color: #07294d;
 }
 .header-two .header-right .social ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
 }
@@ -815,7 +817,7 @@ p {
     font-size: 16px;
     font-weight: 500;
     padding: 6px 18px;
-    background: #ffc600;
+    background: #3333ff;
     border-radius: 5px;
     transition: all 0.3s linear;
 }
@@ -840,7 +842,7 @@ p {
     color: #07294d;
 }
 .header-two .navigation .navbar .navbar-nav li .sub-menu li a.active, .header-two .navigation .navbar .navbar-nav li .sub-menu li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*===== HEADER THREEE =====*/
 
@@ -858,7 +860,7 @@ p {
     color: #fff;
 }
 .header-three .navigation .navbar .navbar-nav li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .header-three .navigation .right-icon ul li a {
     color: #fff;
@@ -873,7 +875,7 @@ p {
     color: #07294d;
 }
 .header-three .navigation.sticky .navbar .navbar-nav li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .header-three .navigation.sticky .right-icon ul li a {
     color: #07294d;
@@ -886,7 +888,7 @@ p {
     color: #07294d;
 }
 .header-three .navigation .navbar .navbar-nav li .sub-menu li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*===== HEADER FORE =====*/
 
@@ -898,7 +900,7 @@ p {
     color: #07294d;
 }
 .header-four .navigation .navbar .navbar-nav li .sub-menu li a.active, .header-four .navigation .navbar .navbar-nav li .sub-menu li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*===== SEARCH BOX =====*/
 
@@ -965,7 +967,7 @@ p {
     font-size: 16px;
 }
 /*=====================================================
-    3. SLIDER css 
+    3. SLIDER css
 ======================================================*/
 
 .single-slider {
@@ -1034,8 +1036,8 @@ p {
     transition: all 0.4s linear;
 }
 .slider-active .slick-arrow i:hover {
-    background-color: #ffc600;
-    border-color: #ffc600;
+    background-color: #3333ff;
+    border-color: #3333ff;
 }
 /*===== Index-2 =====*/
 
@@ -1175,7 +1177,7 @@ p {
     color: #07294d;
 }
 /*=====================================================
-    4. CATEGORY css 
+    4. CATEGORY css
 ======================================================*/
 
 .color-1 {
@@ -1190,7 +1192,7 @@ p {
 .category {
     background-color: #07294d;
     border-radius: 10px;
-    margin-top: -150px;
+    margin-top: -190px;
     position: relative;
     z-index: 5;
 }
@@ -1247,7 +1249,7 @@ p {
     transition: all 0.4s linear;
 }
 .category-slide .slick-arrow i:hover {
-    background-color: #ffc600;
+    background-color: #3333ff;
 }
 /*===== Index-4 =====*/
 
@@ -1260,7 +1262,7 @@ p {
     color: #07294d;
 }
 /*=====================================================
-    5. ABOUT css 
+    5. ABOUT css
 ======================================================*/
 
 #about-part {
@@ -1313,7 +1315,7 @@ p {
     margin-right: 20px;
 }
 .about-event ul li .single-event span i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 3px;
 }
 .about-event ul li .single-event a {
@@ -1328,7 +1330,7 @@ p {
     transition: all 0.4s linear;
 }
 .about-event ul li .single-event a:hover h4 {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*===== Index-4 =====*/
 
@@ -1375,7 +1377,7 @@ p {
     left: 85px;
 }
 /*=====================================================
-    6. APPLY css 
+    6. APPLY css
 ======================================================*/
 
 .apply {
@@ -1405,7 +1407,7 @@ p {
     padding-bottom: 45px;
 }
 .apply .apply-cont .main-btn:hover {
-    border-color: #ffc600;
+    border-color: #3333ff;
 }
 /*===== Index-4 =====*/
 
@@ -1455,7 +1457,7 @@ p {
     color: #fff;
 }
 /*=====================================================
-    7. COURSE css 
+    7. COURSE css
 ======================================================*/
 
 .single-course {
@@ -1492,7 +1494,7 @@ p {
     height: 55px;
     line-height: 55px;
     border-radius: 50%;
-    background-color: #ffc600;
+    background-color: #3333ff;
     text-align: center;
 }
 .single-course .cont {
@@ -1511,7 +1513,7 @@ p {
 }
 .single-course .cont ul li>i {
     font-size: 13px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course .cont span {
     font-size: 13px;
@@ -1527,7 +1529,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-course .cont h4:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course .course-teacher {
     border-top: 1px solid #e0e0e0;
@@ -1555,7 +1557,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-course .course-teacher .name a:hover h6 {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course .course-teacher .admin {
     display: inline-block;
@@ -1578,7 +1580,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-course .course-teacher .admin ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course .course-teacher .admin ul li a span {
     color: #8a8a8a;
@@ -1608,11 +1610,11 @@ p {
     transition: all 0.4s linear;
 }
 .course-slide .slick-arrow:hover i {
-    border-color: #ffc600;
-    background-color: #ffc600;
+    border-color: #3333ff;
+    background-color: #3333ff;
 }
 /*=====================================================
-    8. VIDEO FEATURES css 
+    8. VIDEO FEATURES css
 ======================================================*/
 
 #video-feature {
@@ -1635,7 +1637,7 @@ p {
     line-height: 120px;
     text-align: center;
     font-size: 24px;
-    background-color: #ffc600;
+    background-color: #3333ff;
     color: #07294d;
     border-radius: 50%;
 }
@@ -1702,7 +1704,7 @@ p {
     color: #505050;
 }
 /*=====================================================
-    9. TEACHERS css 
+    9. TEACHERS css
 ======================================================*/
 
 .teachers-cont {}
@@ -1746,7 +1748,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-teachers .cont a:hover h6 {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-teachers .cont span {
     font-size: 14px;
@@ -1768,7 +1770,7 @@ p {
     background-size: contain;
 }
 /*=====================================================
-    10. PUBLICATION css 
+    10. PUBLICATION css
 ======================================================*/
 
 .single-publication {
@@ -1811,16 +1813,16 @@ p {
 }
 .single-publication .image .add-cart ul li a {
     font-size: 16px;
-    color: #ffc600;
+    color: #3333ff;
     width: 35px;
     line-height: 35px;
-    border: 1px solid #ffc600;
+    border: 1px solid #3333ff;
     text-align: center;
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
 }
 .single-publication .image .add-cart ul li a:hover {
-    background-color: #ffc600;
+    background-color: #3333ff;
     color: #07294d;
 }
 .single-publication .content {}
@@ -1833,7 +1835,7 @@ p {
     margin-bottom: 5px;
 }
 .single-publication .content .book-title a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-publication .content .writer-name {
     font-size: 15px;
@@ -1884,7 +1886,7 @@ p {
     padding-bottom: 25px;
 }
 /*=====================================================
-    11. TEASTIMONIAL css 
+    11. TEASTIMONIAL css
 ======================================================*/
 
 #testimonial {}
@@ -1926,7 +1928,7 @@ p {
     height: 45px;
     line-height: 45px;
     text-align: center;
-    background-color: #ffc600;
+    background-color: #3333ff;
     border-radius: 50%;
     color: #07294d;
     font-size: 18px;
@@ -1965,10 +1967,10 @@ p {
     cursor: pointer;
 }
 .testimonial-slide .slick-dots li.slick-active button {
-    background-color: #ffc600;
+    background-color: #3333ff;
 }
 /*=====================================================
-    12. NEWS css 
+    12. NEWS css
 ======================================================*/
 
 .single-news {}
@@ -1990,7 +1992,7 @@ p {
     font-size: 15px;
 }
 .single-news .news-cont ul li a i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 8px;
 }
 .single-news .news-cont ul li a span {
@@ -2008,7 +2010,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-news .news-cont a:hover h3 {
-    color: #ffc600;
+    color: #3333ff;
 }
 .news-list .news-cont h3 {
     font-size: 20px;
@@ -2017,7 +2019,7 @@ p {
     font-size: 14px;
 }
 /*=====================================================
-    13. FOOTER css 
+    13. FOOTER css
 ======================================================*/
 
 .footer-top {
@@ -2049,7 +2051,7 @@ p {
     transition: all 0.4s linear;
 }
 .footer-about ul li a:hover {
-    background-color: #ffc600;
+    background-color: #3333ff;
     color: #021d3a;
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
@@ -2077,12 +2079,12 @@ p {
 }
 .footer-link ul li a i {
     margin-right: 8px;
-    color: #ffc600;
+    color: #3333ff;
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
 }
 .footer-link ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .footer-link ul li a:hover i {
     margin-right: 15px;
@@ -2100,7 +2102,7 @@ p {
 }
 .footer-address ul li .icon i {
     font-size: 18px;
-    color: #ffc600;
+    color: #3333ff;
     position: absolute;
     left: 0;
     top: 5px;
@@ -2127,7 +2129,7 @@ p {
     width: 40px;
     height: 40px;
     line-height: 35px;
-    background-color: #ffc600;
+    background-color: #3333ff;
     color: #fff;
     font-size: 28px;
     border-radius: 5px;
@@ -2142,7 +2144,7 @@ p {
     background-color: #021d3a;
 }
 /*=====================================================
-    14. CATEGORY 2 css 
+    14. CATEGORY 2 css
 ======================================================*/
 
 .category-2-items {}
@@ -2185,7 +2187,7 @@ p {
     color: #fff;
 }
 .category-2-items .single-items .items-cont h5:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .category-form {
     border-radius: 5px;
@@ -2200,7 +2202,7 @@ p {
     padding-bottom: 40px;
 }
 .category-form .form-title h3 {
-    color: #ffc600;
+    color: #3333ff;
     font-size: 36px;
 }
 .category-form .form-title span {
@@ -2233,7 +2235,7 @@ p {
     margin-top: 20px;
 }
 /*=====================================================
-    15. COURSE 2 css 
+    15. COURSE 2 css
 ======================================================*/
 
 .single-course-2 {}
@@ -2259,7 +2261,7 @@ p {
     height: 55px;
     line-height: 55px;
     border-radius: 50%;
-    background-color: #ffc600;
+    background-color: #3333ff;
     text-align: center;
 }
 .single-course-2>.thum .course-teacher {
@@ -2289,7 +2291,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-course-2>.thum .course-teacher .name h6:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course-2>.thum .course-teacher .review {
     display: inline-block;
@@ -2299,7 +2301,7 @@ p {
 .single-course-2>.thum .course-teacher .review ul li {
     display: inline-block;
     font-size: 12px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course-2>.thum .course-teacher .review ul li {}
 .single-course-2 .cont {
@@ -2313,10 +2315,10 @@ p {
     transition: all 0.4s linear;
 }
 .single-course-2 .cont h4:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*=====================================================
-    16. COUNTER css 
+    16. COUNTER css
 ======================================================*/
 
 .single-counter {
@@ -2325,7 +2327,7 @@ p {
 }
 .single-counter span {
     font-size: 36px;
-    color: #ffc600;
+    color: #3333ff;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
@@ -2362,7 +2364,7 @@ p {
     color: #fff;
 }
 /*=====================================================
-    17. TEACHERS 2 css 
+    17. TEACHERS 2 css
 ======================================================*/
 
 .teachers-2 {}
@@ -2394,7 +2396,7 @@ p {
     transition: all 0.4s linear;
 }
 .teachers-2 .teachers-2-single .cont a:hover h5 {
-    color: #ffc600;
+    color: #3333ff;
 }
 .teachers-2 .teachers-2-single .cont p {
     font-size: 15px;
@@ -2405,7 +2407,7 @@ p {
 }
 .teachers-2 .teachers-2-single .cont span i {
     margin-right: 5px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .student-slide {
     z-index: 5;
@@ -2460,7 +2462,7 @@ p {
     right: 0;
 }
 /*=====================================================
-    18. EVENT css 
+    18. EVENT css
 ======================================================*/
 
 .event-bg {
@@ -2497,7 +2499,7 @@ p {
     margin-right: 20px;
 }
 .event-2 ul li .single-event span i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 3px;
 }
 .event-2 ul li .single-event a {
@@ -2512,10 +2514,10 @@ p {
     transition: all 0.4s linear;
 }
 .event-2 ul li .single-event a:hover h4 {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*=====================================================
-    18.1 EVENT 2 css 
+    18.1 EVENT 2 css
 ======================================================*/
 
 .single-event-list-2 {
@@ -2535,7 +2537,7 @@ p {
     margin-right: 20px;
 }
 .single-event-list-2 .event-cont span i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 3px;
 }
 .single-event-list-2 .event-cont a {
@@ -2550,10 +2552,10 @@ p {
     transition: all 0.4s linear;
 }
 .single-event-list-2 .event-cont a:hover h4 {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*=====================================================
-    19. COUNT DOWN css 
+    19. COUNT DOWN css
 ======================================================*/
 
 .count-down-cont {
@@ -2568,7 +2570,7 @@ p {
 }
 .count-down-cont h2 {
     font-size: 72px;
-    color: #ffc600;
+    color: #3333ff;
     font-weight: 700;
     padding-bottom: 37px;
 }
@@ -2606,7 +2608,7 @@ p {
     z-index: 5;
 }
 .category-form-3 .form-title {
-    background-color: #ffc600;
+    background-color: #3333ff;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
@@ -2620,11 +2622,11 @@ p {
     color: #fff;
 }
 .category-form-3 .main-btn:hover {
-    color: #ffc600;
+    color: #3333ff;
     border-color: #07294d;
 }
 /*=====================================================
-    20. PAGE BANNER  css 
+    20. PAGE BANNER  css
 ======================================================*/
 
 .page-banner-cont {
@@ -2642,7 +2644,7 @@ p {
     padding: 0;
 }
 .page-banner-cont .breadcrumb .breadcrumb-item {
-    color: #ffc600;
+    color: #3333ff;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 2px;
@@ -2656,7 +2658,7 @@ p {
     font-size: 18px;
 }
 /*=====================================================
-    21. ABOUT PAGE css 
+    21. ABOUT PAGE css
 ======================================================*/
 
 .about-image img {
@@ -2678,7 +2680,7 @@ p {
     padding-bottom: 25px;
 }
 /*=====================================================
-    22. COURSES PAGE css 
+    22. COURSES PAGE css
 ======================================================*/
 
 .tab-content {}
@@ -2704,7 +2706,7 @@ p {
     color: #8a8a8a;
 }
 .courses-top-search .nav .nav-item a.active {
-    color: #ffc600;
+    color: #3333ff;
 }
 .courses-search {
     position: relative;
@@ -2754,11 +2756,11 @@ p {
     transition: all 0.4s linear;
 }
 .courses-pagination .pagination .page-item a.active, .courses-pagination .pagination .page-item a:hover {
-    background-color: #ffc600;
-    border-color: #ffc600;
+    background-color: #3333ff;
+    border-color: #3333ff;
 }
 /*=====================================================
-    23. COURSE SINGEl PAGE css 
+    23. COURSE SINGEl PAGE css
 ======================================================*/
 
 .courses-single-left {
@@ -2813,7 +2815,7 @@ p {
 }
 .courses-single-left .course-terms ul li .review ul li a {
     font-size: 14px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .courses-single-left .course-terms ul li .review ul li.rating {
     font-size: 14px;
@@ -2913,7 +2915,7 @@ p {
     float: right;
 }
 .curriculum-cont .accordion .card .card-header a ul li>i {
-    color: #ffc600;
+    color: #3333ff;
     font-size: 15px;
     margin-right: 5px;
 }
@@ -3049,7 +3051,7 @@ p {
 .reviews-cont ul li .single-reviews .reviews-description .rating ul li {
     display: inline-block;
     font-size: 15px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .reviews-cont ul li .single-reviews .reviews-description .rating span {
     font-size: 15px;
@@ -3091,7 +3093,7 @@ p {
     margin: 0px 3px 0px 3px;
 }
 .reviews-cont .reviews-form .form-single .rate:hover, .reviews-cont .reviews-form .form-single .rate.selected {
-    color: #ffc600;
+    color: #3333ff;
 }
 .reviews-cont .reviews-form .form-single .rate .rate-item:hover~.rate-item, .reviews-cont .reviews-form .form-single .rate .rate-item.active~.rate-item {
     color: #cecece;
@@ -3122,7 +3124,7 @@ p {
     border-bottom: 0;
 }
 .course-features ul li i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 8px;
 }
 .course-features ul li span {
@@ -3139,7 +3141,7 @@ p {
     margin-top: 12px;
 }
 .course-features .price-button span b {
-    color: #ffc600;
+    color: #3333ff;
 }
 .course-features .price-button .main-btn {
     float: right;
@@ -3186,12 +3188,12 @@ p {
     transition: all 0.4s linear;
 }
 .You-makelike .single-makelike .cont h4:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .You-makelike .single-makelike .cont ul li {
     display: inline-block;
     margin-right: 15px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .You-makelike .single-makelike .cont ul li a {
     font-size: 14px;
@@ -3201,7 +3203,7 @@ p {
     margin-right: 3px;
 }
 /*=====================================================
-    24. EVENT PAGE css 
+    24. EVENT PAGE css
 ======================================================*/
 
 .single-event-list {
@@ -3236,7 +3238,7 @@ p {
     margin-right: 20px;
 }
 .single-event-list .event-cont span i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 3px;
 }
 .single-event-list .event-cont a {
@@ -3251,10 +3253,10 @@ p {
     transition: all 0.4s linear;
 }
 .single-event-list .event-cont a:hover h4 {
-    color: #ffc600;
+    color: #3333ff;
 }
 /*=====================================================
-    25. EVENT SINGEL PAGE css 
+    25. EVENT SINGEL PAGE css
 ======================================================*/
 
 .events-area {
@@ -3272,9 +3274,10 @@ p {
     font-size: 14px;
     color: #8a8a8a;
     margin-right: 20px;
+    text-align: center;
 }
 .events-left span i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 3px;
 }
 .events-left img {
@@ -3298,7 +3301,7 @@ p {
 .events-coundwon .count-down-time .single-count {}
 .events-coundwon .count-down-time .single-count .number {
     font-size: 24px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .events-coundwon .count-down-time .single-count .title {
     font-size: 13px;
@@ -3325,7 +3328,7 @@ p {
 }
 .events-address ul li .single-address .icon i {
     font-size: 15px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .events-address ul li .single-address .cont {
     padding-left: 23px;
@@ -3344,7 +3347,7 @@ p {
     border-radius: 5px;
 }
 /*=====================================================
-    26. TEACHERS SInGEL PAGE css 
+    26. TEACHERS SInGEL PAGE css
 ======================================================*/
 
 .teachers-left {
@@ -3429,7 +3432,7 @@ p {
 }
 .teachers-right .tab-content {}
 /*=====================================================
-    27. BLOG PAGE css 
+    27. BLOG PAGE css
 ======================================================*/
 
 .single-blog {
@@ -3453,7 +3456,7 @@ p {
     transition: all 0.4s linear;
 }
 .single-blog .blog-cont a:hover h3 {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-blog .blog-cont ul {
     padding: 20px 0;
@@ -3470,7 +3473,7 @@ p {
     color: #8a8a8a;
 }
 .single-blog .blog-cont ul li a i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 5px;
 }
 .single-blog .blog-cont p {}
@@ -3528,7 +3531,7 @@ p {
     transition: all 0.4s linear;
 }
 .sidebar .categories ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .sidebar .sidebar-post {
     padding: 30px 35px 35px;
@@ -3562,14 +3565,14 @@ p {
     transition: all 0.4s linear;
 }
 .sidebar .sidebar-post ul li a .single-post .cont h6:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .sidebar .sidebar-post ul li a .single-post .cont span {
     font-size: 14px;
     color: #8a8a8a;
 }
 /*=====================================================
-    28. BLOG SINGEL PAGE css 
+    28. BLOG SINGEL PAGE css
 ======================================================*/
 
 .blog-details .cont {
@@ -3594,7 +3597,7 @@ p {
     color: #8a8a8a;
 }
 .blog-details .cont ul li a i {
-    color: #ffc600;
+    color: #3333ff;
     margin-right: 5px;
 }
 .blog-details .cont .share {
@@ -3618,7 +3621,7 @@ p {
     line-height: 35px;
     border-radius: 50%;
     font-size: 16px;
-    background-color: #ffc600;
+    background-color: #3333ff;
     text-align: center;
     color: #fff;
     margin-right: 0;
@@ -3709,7 +3712,7 @@ p {
     padding-top: 20px;
 }
 /*=====================================================
-    29. SHOP PAGE css 
+    29. SHOP PAGE css
 ======================================================*/
 
 .shop-top-search {
@@ -3730,7 +3733,7 @@ p {
     color: #8a8a8a;
 }
 .shop-top-search .nav .nav-item a.active {
-    color: #ffc600;
+    color: #3333ff;
 }
 .shop-top-search .shop-select {
     display: inline-block;
@@ -3778,7 +3781,7 @@ p {
     line-height: 35px;
 }
 /*=====================================================
-    30. SHOP SINGEL PAGE css 
+    30. SHOP SINGEL PAGE css
 ======================================================*/
 
 .shop-details {
@@ -3898,7 +3901,7 @@ p {
     color: #07294d;
 }
 /*=====================================================
-    31. CONTACT PAGE css 
+    31. CONTACT PAGE css
 ======================================================*/
 
 .contact-from {
@@ -3989,7 +3992,7 @@ p.form-message.success, p.form-message.error {
     padding-bottom: 15px;
 }
 /*=====================================================
-    32. TEACHER 2 PAGE css 
+    32. TEACHER 2 PAGE css
 ======================================================*/
 
 .single-teacher-2 {
@@ -4046,14 +4049,14 @@ p.form-message.success, p.form-message.error {
     transition: all 0.4s linear;
 }
 .single-teacher-2 .teacher-content .teacher-title a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-teacher-2 .teacher-content span {
     font-size: 14px;
     color: #8a8a8a;
 }
 /*=====================================================
-    33.ADMISSION  css 
+    33.ADMISSION  css
 ======================================================*/
 
 .admission-row {
@@ -4082,7 +4085,7 @@ p.form-message.success, p.form-message.error {
 .admission-info span {
     font-size: 30px;
     font-weight: 600;
-    color: #ffc600;
+    color: #3333ff;
 }
 .admission-card {
     background-color: #07294d;
@@ -4103,7 +4106,7 @@ p.form-message.success, p.form-message.error {
     color: #fff;
 }
 /*=====================================================
-    34.COURSE  css 
+    34.COURSE  css
 ======================================================*/
 
 .course-area {
@@ -4137,7 +4140,7 @@ p.form-message.success, p.form-message.error {
 .single-course-three .course-content .rating li {
     display: inline-block;
     font-size: 14px;
-    color: #ffc600;
+    color: #3333ff;
 }
 .single-course-three .course-content .rating span {
     font-size: 14px;
@@ -4152,7 +4155,7 @@ p.form-message.success, p.form-message.error {
     transition: all 0.4s linear;
 }
 .single-course-three .course-content .course-title a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .course-meta {
     border-top: 1px solid #e0e0e0;
@@ -4182,7 +4185,7 @@ p.form-message.success, p.form-message.error {
     transition: all 0.4s linear;
 }
 .course-meta .admin ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
 }
 .course-right {}
 .course-signup {
@@ -4196,7 +4199,7 @@ p.form-message.success, p.form-message.error {
 }
 .course-signup .content .signup-title {
     font-size: 30px;
-    color: #ffc600;
+    color: #3333ff;
     font-weight: 700;
     padding-bottom: 10px;
 }
@@ -4298,7 +4301,7 @@ p.form-message.success, p.form-message.error {
     float: right;
 }
 .faq-accordion-cont .accordion .card .card-header a ul li>i {
-    color: #ffc600;
+    color: #3333ff;
     font-size: 16px;
     margin-right: 5px;
 }
@@ -4348,7 +4351,7 @@ p.form-message.success, p.form-message.error {
     transition: .3s;
 }
 .privacy-list ul li a:hover {
-    color: #ffc600;
+    color: #3333ff;
     transition: .3s;
 }
 /*=====================================================
@@ -4391,7 +4394,7 @@ p.form-message.success, p.form-message.error {
     transition: .3s;
 }
 a.term-service:hover {
-    color: #ffc600;
+    color: #3333ff;
     transition: .3s;
 }
 .loginhere {
@@ -4406,7 +4409,7 @@ a.term-service:hover {
     transition: .3s;
 }
 a.loginhere-link:hover {
-    color: #ffc600;
+    color: #3333ff;
     transition: .3s;
 }
 .field-icon {

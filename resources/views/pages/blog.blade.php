@@ -21,7 +21,7 @@
     <!--====== HEADER PART START ======-->
     
     <header id="header-part">
-        @include('frontlayout.topheader')
+        {{--@include('frontlayout.topheader')--}}
         
         @include('frontlayout.menu')
     </header>
@@ -105,12 +105,14 @@
                    <div class="sidebar">
                        <div class="row">
                            <div class="col-lg-12 col-md-6">
-                               <div class="sidebar-search mt-30">
+                               {{--
+                                <div class="sidebar-search mt-30">
                                    <form action="#">
                                        <input type="text" placeholder="Search">
                                        <button type="button"><i class="fa fa-search"></i></button>
                                    </form>
-                               </div> <!-- sidebar search -->
+                               </div>
+                               --}} <!-- sidebar search -->
                                <div class="categories mt-30">
                                    <h4>Categories</h4>
                                    <ul>
@@ -194,7 +196,7 @@
    
     <!--====== BACK TO TP PART START ======-->
     
-    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+    <a href="#" class="back-to-top"><i class="fa fa-arrow-up"></i></a>
     
     <!--====== BACK TO TP PART ENDS ======-->
 	@include('frontlayout.javascript')

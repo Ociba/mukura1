@@ -17,7 +17,7 @@
                         <div class="news-cont">
                             <ul>
                                 <li><a href="#"><i class="fa fa-calendar"></i>2 December 2018 </a></li>
-                                <li><a href="#"> <span>By</span> Adam linn</a></li>
+                                <li><a href="#"> <span>By</span> Admin</a></li>
                             </ul>
                             <a href="blog-single.html"><h3>Tips to grade high cgpa in university life</h3></a>
                             <p>Lorem ipsum gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt .</p>
@@ -36,7 +36,7 @@
                                 <div class="news-cont mt-30">
                                     <ul>
                                         <li><a href="#"><i class="fa fa-calendar"></i>2 December 2018 </a></li>
-                                        <li><a href="#"> <span>By</span> Adam linn</a></li>
+                                        <li><a href="#"> <span>By</span> Admin</a></li>
                                     </ul>
                                     <a href="blog-single.html"><h3>Intellectual communication</h3></a>
                                     <p>Gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons  vel.</p>
@@ -55,7 +55,7 @@
                                 <div class="news-cont mt-30">
                                     <ul>
                                         <li><a href="#"><i class="fa fa-calendar"></i>2 December 2018 </a></li>
-                                        <li><a href="#"> <span>By</span> Adam linn</a></li>
+                                        <li><a href="#"> <span>By</span> Admin</a></li>
                                     </ul>
                                     <a href="blog-single.html"><h3>Study makes you perfect</h3></a>
                                     <p>Gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons  vel.</p>
@@ -74,7 +74,7 @@
                                 <div class="news-cont mt-30">
                                     <ul>
                                         <li><a href="#"><i class="fa fa-calendar"></i>2 December 2018 </a></li>
-                                        <li><a href="#"> <span>By</span> Adam Linn</a></li>
+                                        <li><a href="#"> <span>By</span> Admin</a></li>
                                     </ul>
                                     <a href="blog-single.html"><h3>Technology eduction is now....</h3></a>
                                     <p>Gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons  vel.</p>

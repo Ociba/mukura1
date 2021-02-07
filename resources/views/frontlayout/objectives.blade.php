@@ -32,7 +32,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-10">
                         <div class="about-single-items mt-30">
                             <span>
-                                <div class="icon">
+                                <div class="icon" style="padding-left: 30px;">
                                     <img src="images/all-icon/expert.png" alt="icon">
                                 </div>
                             </span>
@@ -43,7 +43,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-10">
                         <div class="about-single-items mt-30">
                             <span>
-                                <div class="icon">
+                                <div class="icon" style="padding-left: 30px;">
                                     <img src="images/all-icon/man.png" alt="icon">
                                 </div>
                             </span>
@@ -54,7 +54,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-10">
                         <div class="about-single-items mt-30">
                             <span>
-                                <div class="icon">
+                                <div class="icon" style="padding-left: 30px;">
                                     <img src="images/all-icon/book.png" alt="icon">
                                 </div>
                             </span>

@@ -1,5 +1,5 @@
 <!--====== Favicon Icon ======-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/png">
+<link rel="shortcut icon" href="images/patnar-logo/p-3.png" type="image/png">
 
 <!--====== Slick css ======-->
 <link rel="stylesheet" href="{{asset('css/slick.css')}}">

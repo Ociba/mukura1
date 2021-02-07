@@ -1,10 +1,10 @@
-<div class="navigation">
+<div class="navigation" style="background-color: #07294d;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
-                            <a class="navbar-brand" href="index-4.html">
-                                <img src="{{asset('images/patnar-logo/p-3.png')}}" style="width:50px; height:50px;" alt="Logo">Teso Parents P/S
+                            <a class="navbar-brand" href="#">
+                                <img src="{{asset('images/patnar-logo/p-3.png')}}" style="width:50px; height:50px;" alt="Logo"><span style="font-size:18px;">TPPS</span>
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-bar"></span>
